@@ -1,0 +1,8 @@
+/.idea
+/venv
+__pycache__
+
+/resources/corpora
+/resources/taggers
+/resources/tokenizers
+/resources/emojipedia.org
